@@ -7,3 +7,5 @@ Quesstion 1
 - [ ] POST 
 - [ ] PUT
 - [ ] DELETE
+- [ ] GET in JavaScript
+- [ ] POST in JavaScript
