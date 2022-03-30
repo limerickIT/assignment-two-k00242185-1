@@ -2,8 +2,10 @@
 
 Question 1
 
-- [ ] Display Beer List
-- [ ] Get indevidual beer by id
+- [x] Display Beer List with link
+        Localhost:8888/beer/link
+- [x] Get indevidual beer by id
+        Localhost:8888/beer/{id}
 - [ ] POST 
 - [ ] PUT
 - [ ] DELETE
