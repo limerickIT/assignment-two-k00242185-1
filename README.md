@@ -2,9 +2,10 @@
 
 Question 1
 
-- [x] Display Beer List with link
-     -   Localhost:8888/beer/link
-- [x] Get indevidual beer by id
+- [x] GET Beer List with link with pagination.
+     -   Localhost:8888/beer/link/{pagenumber}/{PageSize}
+     -   Localhost:8888/beer/link/3/10
+- [x] GET indevidual beer by id
      -   Localhost:8888/beer/{id}
 - [ ] POST 
 - [ ] PUT
