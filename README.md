@@ -15,6 +15,11 @@ Question 1
 - [ ] GET in JavaScript
 - [ ] POST in JavaScript
 
+- [ ] GET Brewery
+- [ ] POST Brewery
+- [ ] DELETE by ID
+- [ ] PUTa
+
 Question 2 
 
 - [ ] Map HTML
