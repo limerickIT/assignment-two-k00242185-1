@@ -18,7 +18,7 @@ Question 1
 - [ ] GET Brewery
 - [ ] POST Brewery
 - [ ] DELETE by ID
-- [ ] PUTa
+- [ ] PUT Brewery
 
 Question 2 
 
