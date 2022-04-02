@@ -8,7 +8,8 @@ Question 1
 - [x] GET indevidual beer by id
      -   Localhost:8888/beer/{id}
 - [ ] POST 
-- [ ] PUT
+- [x] PUT
+     -     Localhost:8888/beer/{id}
 - [x] DELETE by ID
      -    Localhost:888/beer/{id}
 - [ ] GET in JavaScript
