@@ -9,7 +9,7 @@ Question 1
      -   Localhost:8888/beer/{id}
 - [ ] POST 
 - [x] PUT
-     -     Localhost:8888/beer/{id}
+     - Localhost:8888/beer/{id}
 - [x] DELETE by ID
      -    Localhost:888/beer/{id}
 - [ ] GET in JavaScript
