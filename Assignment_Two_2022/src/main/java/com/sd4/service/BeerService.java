@@ -39,11 +39,15 @@ public class BeerService {
     }
 
     public void addbeer(Beer b) {
-    if(BeerRepo.findById(b.getId()).isPresent()){
-    return ;}
+  
       BeerRepo.save(b);
             
       
       
+    }
+
+    public Beer edit(Beer b) {
+        BeerRepo.save(b);
+        return b;
     }
 }
